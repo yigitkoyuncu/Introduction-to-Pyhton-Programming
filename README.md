@@ -28,7 +28,7 @@ The primary focus is building strong programming fundamentals, developing algori
 
 ## 🛠️ Environment & Tools
 - **Language:** Python 3.x
-- **Editor / IDE:** VS Code
+- **Editor / IDE:** PyCharm
 - **Version Control:** Git & GitHub
 
 ---
