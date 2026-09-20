@@ -1,0 +1,10 @@
+#Lesson2 Numbers
+print(2+2.5)
+print(type(2))
+print(type(2.5))
+print(1/2)
+print(2**3)
+print(10%2)
+print(10/3)
+print(10//3)
+print(-10//3)
