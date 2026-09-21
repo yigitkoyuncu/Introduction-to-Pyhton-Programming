@@ -18,7 +18,7 @@ customerGender = True #Female
 customerID = 1234
 customerBY = 2006
 customerAdress = "Vilnus"
-customerAge = 2020 - customerBY
+customerAge = 2026 - customerBY
 print(customerNS)
 print(customerGender)
 print(customerID)
